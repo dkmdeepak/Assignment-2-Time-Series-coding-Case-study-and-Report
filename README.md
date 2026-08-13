@@ -15,10 +15,10 @@ Each model predicts energy use 24 hours ahead. We compare their accuracy.
 ## Files
 
 ```
-├── code.ipynb
+├── energy_forecasting_analysis.ipynb
 ├── Report.docx                        
 ├── LICENSE                              
-├── .gitignore                           
+├── requirements.txt                           
 └── README.md
 ```
 
