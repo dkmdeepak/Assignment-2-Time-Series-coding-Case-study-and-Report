@@ -1,4 +1,3 @@
-# Assignment 2 :Time Series coding Case study and Report
 # Appliance Energy Forecasting
 
 This project predicts hourly home appliance energy use. It uses the UCI Appliances Energy Prediction dataset.
